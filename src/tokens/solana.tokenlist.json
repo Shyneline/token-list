@@ -33146,6 +33146,17 @@
     },
     {
       "chainId": 101,
+      "address": "62PAz8LYMgFkd8eFyV32D3zi3RzPVxJb1nK7TG43LLxV",
+      "symbol": "SLO",
+      "name": "Slown",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/62PAz8LYMgFkd8eFyV32D3zi3RzPVxJb1nK7TG43LLxV/logo.png",
+      "tags": [
+        "community-token"
+      ]
+    },
+    {
+      "chainId": 101,
       "address": "stedjBnitxnJCRuWfsHP5x7pjXQhHsvbQMwq5ip8jQN",
       "symbol": "PANDA-WHALE",
       "name": "Panda Whale Collectible",
